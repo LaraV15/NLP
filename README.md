@@ -13,3 +13,4 @@ Además el repositorio cuenta con otros archivos:
 - bgg_database.csv: dataset de juegos proporcionado por la cátedra
 - dataset_estado_animo.csv: dataset creado para poder entrenar al modelo de estado de ánimo
 - gutenberg_books_info.csv: dataset de libros creado en el archivo creacion_del_data_set_de_libros.ipynb
+- Informe_TP-1_Domingo-Valeri
