@@ -1,0 +1,838 @@
+`1 | P a g e 
+ Lost Ruins of Armak 
+Complete strategy guide: Beginner / Average / Experienced / Expert  
+ 
+If you are a beginner (0 - 2 games played)  
+ 
+This is (mostly) not a deckbuilding game.  Unlike other deckbuilding games, like Dominion, 
+this game does not encourage deck improvement beyond the 2nd round. The game only lasts 5 
+rounds, so the cards you buy in rounds 1 and 2 are typically the only cards that will be played 
+more than once. You should therefore focus on buying the best cards (see below) at the 
+beginning, then exploration and research starting on round 2/3. 
+ 
+Get assistants early.  Although it may seem like you have to spend many resources just to get 
+something that gives you a single resource, it is very worth it. In most high-level games, players 
+will have at least 1 if not 2 assistants by the end of the 1st round. They will also upgrade them as 
+soon as possible. You will want to max your research points anyways, so getting assistants early 
+gets you more resources. 
+ 
+Do not focus on exiling.  Although Fear cards appear to be dead weight, they can be just as 
+useful as a coin or compass. The Boot travel symbol that Fear provides allows you to go to the 
+tent sites (starting locations). Many things in the game also require discarding a card as a cost 
+(like the Jewel starting location). There are enough GOOD things you can do with Fear that it is 
+ok to have around 1 in each round, so you do not need to exile them right away. Specifically, if 
+exploring on round one, do not explore onto an exile bonus. 
+ 
+The best cards (and assistants) are flexible.  Your needs will change each round depending on 
+what guardians you encounter, where you are on the research track, and what else is in your 
+hand. 
+The most flexible (best) cards: 
+- Dog 
+- Lantern 
+- Star Charts 
+- Binoculars 
+The second best cards give you fewer choices, but are still fairly flexible: 
+- Pickaxe 
+- Carrier Pidgeon 
+- Stone Key 
+The third best give you limited choices, but enough resources to still be flexible: 
+- Tent/Pathfinder's Staff (better in later rounds) 
+- Air Balloon/Whip/Airdrop 
+- Fishing Rod/Precision Compass 
+- Guiding Skull/Guiding Stone 
+- Airplane 
+ `2 | P a g e 
+ The most flexible (best) assistants: 
+- 2 gold 
+- pay 1 Boot for 1 arrow 
+- 1 tablet 
+- pay 1 gold for 1 arrow (upgraded can get a jewel) 
+ 
+Armed with this knowledge you can expect scores of at least 60, which in games of beginners 
+can win you the game! If everything you just read sounds familiar, read on for average scores of 
+70+. Otherwise, go play a game using your new knowledge, then come back.  
+ 
+ 
+ 
+If you are an average player, (3 - 10 games played)  
+ 
+Buy 3-4 cards by the end of round 2.  Your starting cards give 1 resource, most cards give 2, 
+and expensive cards usually give 3. A hand with 2 cheap cards will give more resources than a 
+hand with 1 expensive card. More cards in your deck means you draw Fear cards less often. 
+Cheap cards can also be used to travel (ex: Precision Compass is terrible if used as a travel 
+symbol, but Gold Pan is valuable either way). 
+ 
+This means that on the first round, you generally should not buy a 4-cost card, unless:  
+- you get the 2-gold assistant 
+- you send one of your Archeologists to get 2 gold 
+- you bought a coin Artifact (ex: Trader's Scales, Serpent's Gold)  
+Instead, you should by 2-3 cheap cards. You will have a much stronger second round, and you 
+might have enough money to still compete for cards like Dog. Some early Artifacts can also 
+contribute towards a strong deck (ex: Star Charts, Guiding Skull). 
+ 
+Plan to explore on round 2.  If you have bought items during round one, it will be unlikely that 
+you will have 2 fears in your second hand. It is therefore most efficient for you to spend some of 
+your travel symbols going to a tier 1 (or tier 2) location. You should therefore go into round 2 
+with at least 1 compass to spare, or have bought items that give enough compasses for you to 
+explore. 
+ 
+Send your Glass and Journal in different directions.  On Bird side, it is crucial that you do not 
+advance both of your tokens to the Jewel space. It then becomes very difficult for you to advance 
+further since you need a lot of tablets and arrows, and will be competing for them with other 
+players. Even if you could get a very good assistant by advancing both of your tokens onto the 
+Jewel space, it is usually a mistake. Have at least one of them (ideally the Glass) advance to the 
+Compass-Arrow space so that you can have the option of advancing to the second-level Jewel 
+space. 
+ 
+Get as many Research track bonuses as possible.  The extra resources will help you research 
+more, which will in turn help you get more of the bonuses. Competition around these bonuses is 
+fierce. If one player gets all of the bonuses (8-10), they will typically have about 10 more points `3 | P a g e 
+ than they would have otherwise. 
+ 
+Let some Guardians get you.  This is especially true in the first round. Exploring will give you a 
+huge influx of resources (6 if exploring a Tier 1 location). If the resources given will help you 
+with research, it is often worth it to spend them there rather than overcoming the Guardian, since 
+you will get more resources back (in the form of compasses and assistants). You will take a Fear, 
+but if you get a good assistant, it is a good trade. One example is the Monkey guardian (4-coins). 
+On the first round players, usually have 4 coins available and use them to clear the guardian. 
+This is usually a mistake, since that is the most important time to be buying cards! It would be 
+better to take the fear, buy 2 cards than clear the guardian, and get no items. 
+ 
+Save your 3rd and 4th Idols.  Spending the first two Idols quickly is usually a good investment. 
+Spending either of the last two Idols is very costly, both in points and in your flexibility. Do not 
+spend your 4th Idol until the last round (if at all). Spending your 4th Idol is only sometimes 
+worth 4+ points, and it is very difficult to judge accurately unless it is the last round. 
+ 
+If you are already playing this way, you should be scoring at least 70 each game, sometimes in 
+the 80's. Play some more games, and then read the next section to eek out another 10 points. 
+ 
+ 
+ 
+If you are an experienced player, (10 - 30 games played)  
+ 
+Take Fear locations and Artifacts during rounds 4 and 5.  The whole game is a race, and 
+locations that give you a fear also give you an extra resource, putting you slightly ahead of the 
+other players. The main downside to Fear cards is that they can prevent you from drawing your 
+good cards. If you collect Fear during rounds 4 and 5, however, you likely will not draw any of 
+them (unless you have already drawn your whole deck). The negative points at the end are trivial 
+compared to the advantage of being slightly ahead of your opponents. If you have means of 
+making Fear useful (ex: Boot->Arrow assistant), you can do this as early as round 2! `4 | P a g e 
+  
+ 
+Prioritize buying self-exiling cards during round 3.  These include  
+- Hot Air Balloon 
+- Coconut Flask 
+- Rough Map 
+- Journal 
+- Whip 
+All of these give powerful 1-time effects, and are good cards to have at any point in the game. 
+They are especially good on rounds 4 and 5, however, because you are aiming for more difficult 
+exploration (Hot Air Balloon. Rough Map), higher research takes more resources (Journal), there 
+are more Artifact choices available (Whip, Rough Map), and your cards are better (Coconut 
+Flask). Cards you buy in round 3 will likely only be played once anyways, so normally powerful 
+cards like Lantern are often going to be a worse buy than self-exiling cards. 
+Side note on Bear Trap: it is a good card, but only at the beginning of the game. Buying it on 
+round 3 means you will want to use it on round 5, and if you are playing Bird side, you should be 
+expecting to overcome a guardian for free via the research track. Play it in rounds 2-4 or it might 
+end up redundant. 
+ 
+Stall if there are no good options.  Sometimes all of the cards (or assistants) are mediocre. 
+Usually your opponents are shopping around the same time as you, so you can try to get them to 
+buy first to reveal better options for you. The most common stalling method is buying 1-cost 
+`5 | P a g e 
+ equipment, but if you have cards in hand, research progress, or Archeologists left, start with 
+those. 
+Additionally, be aware of opponent's cards that make purchases (Whip, Precision Compass, 
+Fishing Rod, and Airdrop). For example, if someone bought Whip on round 1, it is good to go 
+into round 2 with extra compasses. If you play before them in the next round, you can get the 
+visible good card first. If you play after and there are not any good, card available, save the 
+compasses for as long as possible. They will usually buy something (even if it is mediocre), 
+potentially revealing a good card that you are now ready to buy. 
+ 
+Be careful with card draw.  Drawing the right card is amazing, but there are only a few 
+situations where you can control which card you draw: 
+- Large Backpack/Obsidian Earrings (you just bought what you want to draw) 
+- Crystal Earrings/Monkey Idol (you've placed on top of the deck the card you want to draw) 
+- You have so many card-drawing affects you know you will draw your entire deck 
+- There is exactly 1 card in your deck (and you remember what it is) 
+Most of the time, you won't know if the next card is going to be useful or not. In these situations 
+where you are considering spending resources  to draw, follow these rules: 
+- DON'T draw if there is another option that will get you what you need, even if it is less 
+efficient 
+- DON'T draw if the top card might be bad to draw (ex: Airplane with no Archeologists) 
+- DON'T draw if most of the remaining cards in your deck net you only 1 resource 
+- DO draw if you need to discard, but your current cards are essential (ex: guardian requires 
+discard) 
+- DO draw if most of your good cards are in the deck, and you already have most of your bad 
+cards 
+ 
+Explore Tier-2 locations when you are about to become the starting player.  Sending an 
+Archeologist to a Tier-2 location is the most efficient way to use an Archeologist. With proper 
+timing, you can guarantee yourself a second trip and deny your opponents the opportunity. This 
+applies most often to player 3 exploring a Tier-2 on round 2. You will have to refrain from 
+exploring or buying artifacts the round before in order to save up enough compasses. Buying 
+cards like Hot Air Balloon, Rough Map, or Automobile/Steamboat should be a priority. Cheap 
+items that give two travel symbols are also a great buy (Gold Pan, Sturdy Boots). 
+ 
+Sometimes sacrifice exploring for artifacts (Bird Side).  Exploring gives more points and more 
+resources than a single activation of an artifact. The downsides to exploring are the unreliable 
+resources and a Fear if you do not overcome the Guardian. Getting an idol mitigates the 
+unreliability somewhat, unless you have already spent 4. Most artifacts are more reliable, and 
+increase the power of your deck. To know which to spend your compasses on, follow these 
+guidelines:  
+- Avoid 4-cost, 1-point artifacts if you will only play it once (unless it was free, or it is the last 
+round and you have already used both your archeologists). 
+- Buy versatile artifacts at any point (Star Charts, Stone Key, and Tigerclaw Hairpin). 
+- Buy the artifact if it gives exactly what you need, especially if there are no revealed locations 
+that give those resources. The opposite is true if it is at the end of the game and you can 
+accurately anticipate the unrevealed location (see below). `6 | P a g e 
+ - Explore at the end if you are confident you can finish researching no matter what the site gives. 
+- Buy artifacts that give 3+ coins on rounds 1-2. 
+- Explore a Tier-2 when you are about to become the starting player (see above). 
+- Explore if you are very far behind or very far ahead in research. 
+- Avoid 2-cost artifacts early (except Sundial and Inscribed Blade). 
+ 
+Maximize every card (and assistant).  To get the most resources you need to use your cards as 
+efficiently as possible. There are 9 kinds of cards, and the ways of maximizing each are different. 
+ 
+Starting deck: Boat/Car/Airplane travel symbols are worth 2 resources. Using your starting 
+Funding and Exploration cards as your primary methods of travel to turn those 1-value cards into 
+2-value cards. You should not exile these even if you can for free, otherwise you will have to 
+travel with purchased cards. Exceptions are having cards that discount travel, travel assistants, or 
+many unhelpful artifacts. 
+ 
+Basic: These are all the cards that give either coins, compasses, or research resources. They can 
+be played in every circumstance, and always give the same resources. Almost all of these cards 
+are already perfectly efficient. The one exception is Gold Pan -- always try to use this as 2 travel 
+symbols. 
+ 
+End-of-round bonus: There are 3 cards that give you extra resources if you use them as your last 
+action; Sundial, Stopwatch, and Chronometer. Think of what your needs next round will be. If 
+you need the extra resources from these cards, play them at the end, otherwise play them 
+immediately. Also, note that Sundial gives its maximum value of 2 as EITHER tablet->jewel, or 
+as a travel symbol. Chronometer gives a value of 4 if used as travel symbols, but you should try 
+to use other cards first. 
+ 
+Card-draw: These are potentially the most powerful, but only if you are able to play the drawn 
+card(s). Maximize these by buying powerful cards and exiling Fear. The main downside to these 
+is their unpredictability. See above for ways of making card-draw more predictable. 
+ 
+Random-site activation: These activate a random unrevealed Tier-1 or Tier-2 site. Maximize 
+these by always having at least 1 card available to draw. The main benefit of these is they give 
+many research resources, and the main downside is their unpredictability. You should play these 
+near the beginning of your turn so you can plan accordingly. See below for more ways of making 
+these cards reliable. 
+ 
+Revealed-site activation: These either activate a revealed site remotely, or moves one of your 
+archeologists to the site and activates it. Maximize by planning to spend all of those resources 
+this round. In general, use these cards later in a round once more information is revealed (new 
+guardians/locations/cards). Use Sturdy Boots or Passage Shell as travel symbol(s) when possible. 
+ 
+Discount: These give a discount for either buying cards, moving up the research track, or 
+exploring. Maximize by getting the full discount (ex: buy a 4-cost card with Whip), and by 
+planning the round before how you will use the discount. If you do not think you will be able to 
+maximize the discount, consider using the card as a travel symbol instead. `7 | P a g e 
+  
+Fear: These are the second-hardest resource to spend. Maximize by buying cards/assistants that 
+require you to discard, traveling to tent locations, or overcoming Guardians (1/3 of them require 
+a Boot symbol or discard). 
+ 
+Exile: These are the hardest resource to spend. You must have a Fear to exile, and if you are 
+maximizing the Fear itself, you need to have already played/discarded it. Maximize by buying 
+Artifacts that give a Fear, or traveling to sites that give a Fear. 
+ 
+Plan to overcome a Guardian with the research track (Bird side).  Researching the last row 
+with the journal lets you overcome a Guardian on a spot you occupy for free. That means that 
+you need to plan (typically the round before) on where you want to send your journal-wielding 
+Archeologist, since there are usually only a few Guardians or unexplored locations left. If you 
+cannot overcome a guardian in this way, its better that you do not research the last spot (it is only 
+worth 2 points on its own). 
+ 
+Spend all your resources each round.  To compete for research track bonuses you must 
+research quickly. To have a strong deck, you need to buy cards early. If you get resources that 
+you cannot easily spend (ex: Jewels on Bird side, round 2), make changes so you can spend 
+everything. This might mean not upgrading your assistants as early as normal, or overcoming a 
+guardian. The two exceptions to this rule are  
+- if you are, saving compasses to explore a Tier-2 (see above)  
+- if it is round 3 or 4 and you are saving coins for research/travel and none of your tools give 
+coins 
+ 
+ 
+Play with these things in mind, and you'll be scoring 80-90 points every game! The last section 
+are improvements I am making in my own games. These might not get you more points, but they 
+will get you more wins! 
+ 
+ 
+ 
+If you are an expert player, (30+ games played)  
+ 
+Be exactly one move ahead.  Against evenly matched opponents, you will often be racing for the 
+same short-term goals (ex: resource track bonus, valuable card). If you are in a position to 'win' a 
+particular race, wait until just the turn before they would get it to get it yourself. Use those earlier 
+moves to secure other contested goals. 
+ 
+Anticipate your next hand.  Because newly purchased cards go onto the bottom of your deck, as 
+well as your hand at the end of a round, you can usually predict what your next hand is going to 
+be. Use this to your advantage and buy cards that will synergize well with that hand. 
+Some examples include  
+- buy Parrot (next hand has at least 1 Fear)  
+- buy Large Backpack (next hand has lots of money)  `8 | P a g e 
+ - buy Gold Pan (next hand has no Boat travel symbols, and you want to travel to a 2-Boat 
+location)  
+Also, having a deck that has 10 total cards can be great in rounds 2-4. If you don't have any draw 
+effects (more common in early rounds), having 10 total cards means you basically have 2 hands 
+that you are switching between, so you can know with 100% accuracy what your next hand will 
+be. 
+ 
+You should also try to anticipate everyone else's next hands. While you do not need to memorize 
+everything, keeping track of key cards can be quite helpful. Some examples include  
+- Surprise research cards (see below)  
+- Dog/Tigerclaw Hairpin (you can block the site they want)  
+- Ostrich/Sea Turtle (you can predict where they will travel)  
+ 
+anticipate unrevealed locations.  Near the end of the game, most of the Tier-1 locations will 
+have been revealed. Because there are only 10 Tier-1 locations in total, once there are only 1 or 2 
+unexplored locations left, you can more accurately guess what resources you might get by 
+exploring them. This is also important if one of the players is using Guiding Stone (reveals a 
+Tier-1) or Guiding Skull (reveals a Tier-2). Just like your own discard, the revealed location goes 
+onto the bottom of the deck. For Tier-2 there are 6 total, so you know that you will not see that 
+location again until the other 5 have been revealed. 
+ 
+Here are all the locations (courtesy of @Cohensius): 
+https://docs.google.com/spreadsheets/d/1h9K0_3CvyaooEHpCmkxp...  
+ 
+For Tier-2, you just have to memorize them. For Tier-1, notice there are about 3 of each: 
+- 3 sites that give a Jewel 
+- 4 sites that give an Arrow 
+- 4 sites that give a Tablet 
+- 3 sites that give a Coin 
+- 3 sites that give a Compass 
+- 2 sites that Draw 
+So if there's a specific resource you're hoping for, count how many of those locations you see. If 
+it is 1 or less, you will probably get it! If it is 2-3, you probably will not. This only works once 
+there are only 1-2 unexplored locations left. 
+ 
+Starve your opponents.  In each round beyond the first, you should be able to identify a resource 
+an opponent will be short on. Sometimes, there will only be one (efficient) way of getting the 
+resource. If you take it, they will have to make inefficient and predictable moves that you can 
+take advantage of. Playing like this will make everyone, including you, score lower. The goal is 
+to lose fewer points than your opponents. The more players there are the less effective this is. 
+Here are some examples of when you can starve an opponent: 
+- Round 2. They took the coin->arrow assistant, and have no cards that give coins. The only 
+available card that would help them is Gold Pan. You should buy the Gold Pan, even if you do `9 | P a g e 
+ not need the coins. 
+- Round 2, Bird Side. There are not any revealed locations that give tablets, and your opponents 
+need to pass the arrow-tablet-tablet research space. You should take the tablet tent location, even 
+if you do not need the tablets. 
+- Round 5. They have already placed their archeologists and have spent all of their idols, and are 
+depending on a specific artifact to give them resources to continue research. You should take that 
+artifact, especially if it is cheap (ex: Sundial, Serpent Idol). 
+ 
+Surprise your opponents with research cards. These are:  
+- Idol of Ara-Anu (research with a Jewel discount)  
+- Inscribed Blade (research with a 1-Arrow or 2-Tablet discount)  
+- Journal (research with the journal for free)  
+- Carrier Pidgeon (2 instant Tablets)  
+If one of these cards is hidden in your hand, try to use it to steal a research-track bonus from 
+someone. They will be playing 'be exactly one turn ahead' (see above), and if your other 
+resources indicate you cannot research on your next turn, they will likely do something else, 
+leaving you an opening. 
+ 
+Buy Artifacts that refund their cost.  This is mostly for the last round so your deck does not 
+become too full of Artifacts. No Artifacts give compasses directly, so the main way to get their 
+cost refunded is to refresh/activate assistants that give compasses. The best case is with either the 
+double-compass assistant, or the discount assistant. You can also get the cost of an Artifact 
+refunded by drawing an item that gives compasses, but you have to know for certain which card 
+you will draw. For example, use Money Idol/Obsidian Earring to get Brush/Bow and Arrows. 
+ 
+Keep track of how many fear-using guardians you have seen.  The best way to use a fear card 
+is on a guardian that requires a boot icon or a discard. If you have have seen very few of these 
+guardians and have a fear in hand, explore first before using the fear in some other way (ex: 
+Lantern). You are also likely to get an exile bonus from a guardian. 
+ 
+Balance your deck and assistants.  To be the most adaptable you should try to have a wide 
+variety of resources during the round. Cards that let you choose what they give (Dog, Tigerclaw 
+Hairpin, etc.) do this best. Your cards overall should also give different things. Have a card or 
+two that gives coins, compasses, and research resources. If you are missing something, get a card 
+that fills that spot, even if the card itself is mediocre. 
+ 
+That is it for now! I will be updating this regularly until I have covered all the major aspects of 
+the game. 
+ 
+What are some of your key strategies? Are their certain cards you feel are underrated? Disagree 
+with some of this guide? Comment below! 
+ 
+I will be adding a full breakdown of every card if this guide gets at least 100 'likes'. `10 | P a g e 
+  
+Edit: We got over 100 'likes'! Thank you everyone! Here is the promised card breakdown:  
+https://boardgamegeek.com/thread/2751479/break-down-every-ca...  
+Tell us your thoughts on when you think is the best time to use different cards! The next goal is 
+200 'likes' for a Snake-side guide! 
+ 
+ 
+ 
+ 
+ 
+ `11 | P a g e 
+ 
+`12 | P a g e 
+  
+`13 | P a g e 
+ Assessing the Opening Situation  
+ 
+There are three main things to assess in a new game: your starting hand, the available 
+cards to buy, and the available assistants. (Site and research track bonuses can be relevant 
+too, but are more instrumental, based on these first three.) Let us take these one at a time. 
+ 
+Hand: Probably the first thing you notice. There are three possible states of your opening 
+hand, since of your three starting card types, one of them will only appear once:  
+- 1 Fear: the most flexible situation in the first round, since you have all your “useful” cards 
+in hand. It is not always ideal, however: if you have the compasses in hand to explore, 2 
+Fear lets you grab a jewel first, making it easier to get what you need from an explore action 
+to be able to get your first assistant. 
+- 1 Coin: this may reduce your buying potential or range of travel options, which can 
+occasionally be crucial, but is usually manageable. 
+- 1 Compass: Arguably, the most difficult opening hand, as it will force most players to use 
+the compass site first if they wish to explore this round. 
+ 
+Cards: Scan the available cards to purchase, and decide if any are worth competing for 
+right off the bat. Some cards (like Dog and Lantern) are versatile enough to always be 
+useful, but depending on your objectives (explore a lot? research a lot? continually improve 
+your deck?) there are plenty of cards, including 1-cost cards, that you might very much 
+want. Depending on what you see, it might prompt you to move to the coins camp first (to 
+afford Aeroplane, for instance) or perhaps to buy a card before moving anyone at all. 
+ 
+To be clear, while I will discuss the various objectives you might want to focus on in a 
+moment, every player should aim to buy some cards first round, even if it is not their first 
+priority (and in general, two cheap cards beat a single expensive one). Early card 
+investment is essential for success throughout the game. However, when assessing the 
+initial cards, always ask: why would I want this card? What do I want to accomplish in round 
+2, will this help, and how well will it work with the other cards I have bought? Buy all you 
+can, but do not buy randomly. 
+ 
+How fast or slow cards work matters too. Hot Air Balloon is a very fast way to beat others to 
+claim a site bonus you really want. On the other hand, using Torch, then Axe, then Pickaxe 
+would be an incredibly slow way to turn 2 Fear into 2 tablets and an arrow for research. 
+Taking four turns to advance one research step certainly will not win you any research track 
+bonuses… but if there are no good assistants out and you want to stall and see if someone 
+will reveal a better one, and then slow is better! 
+ 
+There are also a few (very rare) cases where the single available artifact is worth going for 
+in the first round, such as Passage Shell, Star Charts, or Guiding Skull (I am sure you can 
+think of others). This often means hitting the compass camp first and not exploring, but if the 
+artifact gives you value equal to two camps it will usually be worth it, and (at the very least) 
+adds a plane to your deck. If you go this route, try to eventually get the tablet assistant, to 
+make it easier to activate the artifact again whenever it comes back around. `14 | P a g e 
+  
+Assistants:  Compared to cards, this one is a little more clearly defined. Maybe you have a 
+few favorite assistants, but the one I am confident saying is always worth competing for is 
+the coin assistant. (I am not going to justify that here, as there are other threads on that 
+topic.) If you see him, or possibly another assistant you very much want, consider shaping 
+your first round strategy to get you that assistant asap. 
+ 
+That usually means exploring, and using the idol to gain a research resource instead of 
+using it to deal with the guardian. On Bird Temple, 7 of the 10 possible Level I sites give a 
+research resource you need, making exploration a sound strategy for getting a first round 
+assistant. If you expect stiff competition, consider the risky step of exploring as 
+your first action instead of a campsite! (On Snake, that drops to only 4 of 10, so a slow and 
+steady approach is better -- secure tablets or a jewel before exploring.) If your hand and 
+store only add up to 3 compasses, this may also mean needing to explore a site with a 
+compass bonus for insurance, so check your travel options to be sure that is possible 
+before committing yourself. 
+ 
+A word of caution about a hard drive for assistants: part of the reason the coin assistant is 
+the only one worth doing this for is not just that he is strategically superior -- it’s that doing 
+this for anyone else generally means you will miss out on buying good cards, or possibly, 
+any cards at all. In addition, no assistant is worth getting a hand of just starting cards in 
+round 2. 
+ 
+Setting Goals  
+ 
+it should be clear by now that as you make the above assessments, you are also deciding 
+on your objectives for this round. Often, the answer is a mix: there are good cards, a great 
+assistant, and maybe you have an idea for how you want round 2 to go as well. However, 
+when pulled in different directions, set a priority: determine which actions you must not  be 
+locked out of (whether a campsite or a card), and steel yourself to take this action even if it 
+may lose your shot at a secondary goal. 
+ 
+For instance, buying a card straight off might mean losing the coins camp and getting fewer 
+cards overall, but if that card is crucial to your round 2 goal, that may be okay. Any time you 
+buy before moving consider what campsite options may be left to you by next turn, based 
+on the number of players. This is safest when your second action will be exploring, and you 
+are fine with any spare campsite. However, if you plan to take two campsites, or if you 
+absolutely need to take compasses first, strongly consider moving to the one you want first. 
+No card is worth risking someone completely eating your lunch on the first round. 
+ 
+Likewise, if you need to take an action to prepare (i.e., getting more coins or compasses to 
+afford a purchase), before you pull that trigger consider how likely it is that someone else 
+wants it too, and have a plan B if that card is snapped up. Of course, extra coins or 
+compasses are pretty easy to pivot from, and if there are several good items out you’d be 
+happy with, definitely start by moving to coins; at least one good one will likely still be there `15 | P a g e 
+ next turn, and with luck you’ll get a few (more may always be revealed). 
+ 
+As with cards, the same goes for assistants: consider your odds, and what you will do if you 
+lose the contest. If there are two good assistants available, this is pretty low risk. In addition, 
+if you are torn between cards and an assistant, go for the one you are more certain to 
+accomplish, since it is unlikely your opponents will let you get both. 
+ 
+Considering Turn Order,  
+ 
+Did I say there were three main things to assess before moving? Well, okay, four: turn order 
+can also matter quite a bit too how achievable your possible goals may be. It also creates 
+an inherent dynamic that should incline you towards a certain goal, which I will summarize 
+at the top of each section -- this should help you decide when torn between different 
+objectives. (I will be using the Bird Temple board as the default point of reference in this 
+section, but will note one or two considerations where they differ on Snake.) 
+ 
+Player 1 
+Starting Resources: 2 coins 
+Summary: Buy Cards!  
+ 
+First Glance: This player gets first crack at buying any great cards initially dealt, but 
+absolutely must take the compass site if they want to explore. If there are not any must-buy 
+cards, they also get first crack at any campsite -- a research resource, or coins to stock up 
+on tools for a great round 2. 
+ 
+In More Depth:  Unless there is a top-notch card out, Player 1 is often at less of an 
+advantage than it seems. Generally, I’d advise against exploring, and instead work to 
+position yourself well going forward. Your choice between a research resource or coins as 
+your first move depends very much on whether you are motivated more by the cards or the 
+assistants you see. Taking the research resource is more defensive; guaranteeing that 
+nobody will get both of them and an easy assistant, but it is likely they can get around this 
+by exploring. Generally, therefore, I lean to coins first; if you can also get a research 
+resource, you will have 6-7 coins to spend this turn, which should strengthen your deck 
+immensely for the duration of the game. 
+ 
+Snake Variation: On Snake, if you have 2 compass in hand, there is another exception to 
+taking coins first: the ideal strategy is to hit the tablet camp, then the arrow camp (which is 
+very unlikely to be taken yet, even in a 4-player game). This will let you move your glass 2 
+steps up, earning you 2 coins and probably a bonus tile -- equivalent to a free visit to the 
+coin site, and likely putting you ahead in the race to rescue a second assistant. If you have 
+only 1 compass, though, stick to the coins-first plan. 
+ 
+Multiplayer Variants:  
+In a 2-player game there is less drafting off sites explored by other players until late in the 
+game, so it can be tempting to explore in the first round. However, I’d advise instead taking `16 | P a g e 
+ a page out of the Player 3 advice to store compasses and buy tools that will let you explore 
+a Level II site in the 2nd round (this will net you more resources total by the end of round 3). 
+If you see an assistant who will really help with this (coins or a travel assistant), it can be an 
+exception to my coins-first advice; 1 out of 3 times, your opponent will need to hit 
+compasses to explore; if you hit research first and they go compass, you get to take the 
+other research resource and have first pick of assistants. 
+ 
+In a 3- or 4-player game, there is no greater-than-average urgency to get to the Level II 
+sites. You will be going last next round, so your chance of a free dig site is slim. This is why 
+I advise taking coins first and picking off 2, ideally 3+ tools to use next round: because in 
+that round you will likely need to explore for yourself, and you may not get any research 
+track bonuses, but if you’re well-equipped it’s entirely possible to get both your assistants by 
+the end and be caught up to the pack on research. 
+ 
+Player 2 
+Starting Resources: 1 coin, 1 compass 
+Summary: Explore!  
+ 
+First Glance: The second player is probably the one most invested in exploring in the first 
+round, giving them a guaranteed explored site to revisit in round 2. 
+ 
+In More Depth: If we assume that Player 2 will use their second action to explore, the 
+question becomes chiefly, how best to use their first action? This depends in part on their 
+opening hand:  
+- A one-compass hand makes it critical for them to visit the compass site first, case closed. 
+However, if Player 1 -- who must always go compass if they decide to explore -- beats them 
+to it, this puts Player 2 in a bind, so they must quickly pivot their plan for this round. They 
+will still get first crack at explored sites in round 2, but without an idol, gaining an assistant 
+this round is unlikely (except in a 2-player game). In this scenario, they are therefore thrust 
+into a position more like being Player 1, and should refer to the advice there. 
+- With two compass cards in hand, they have the luxury of visiting one of the initial research 
+resource campsites first, guaranteeing their first assistant this round -- and, under the 
+occasional ideal circumstances, being able to actually gain both assistants in the first round 
+(for more on this niche maneuver, see the recent comprehensive strategy article  by 
+timthe3nchanter). 
+ 
+In the second scenario, you have more flexibility, and the question becomes: which 
+research resource to choose? This depends on your goals for the round. If you want to get 
+an assistant (ideally coins, to buy more cards) then take the jewel camp. You are more 
+likely to gain an arrow than a gem from exploring, and either way you would rather use your 
+idol for arrow/tablets than spend a coin for a gem this round, when you very much want to 
+buy an item or two. (Though if going for the coin assistant, and you have a one-Fear hand, 
+do not hesitate to discard a coin for jewel -- just be mindful of which coin to keep for optimal 
+travel purposes!) 
+ `17 | P a g e 
+ If no great assistant is out, take the arrow camp first; most guardians require an arrow. 
+Since you are in no rush, it makes more sense to deal with the guardian this round since 
+you are presumably coming back here in round 2, and this will save you a Fear (and future 
+effort). Also, use that overcome action strategically: if a good card you can afford is out, 
+seize it first. If there is not, stall by dealing with the guardian, and probably someone will buy 
+a card or two in the meantime. 
+ 
+Snake Variation:  Taking the tablets camp before exploring on Snake is advisable, 
+particularly if you can score a bonus compass when you explore. The chance of getting an 
+arrow or a jewel is then 7/10, allowing you to use the idol slot to get the other, taking an 
+assistant and moving your glass a second step for those valuable coins. 
+ 
+Multiplayer Variants:  
+In a 2-player game, the main thing to be wary of is a potential assistant race, though this 
+mostly only matters if the coin assistant is available. If Player 1 takes compasses, they are 
+likely going to explore; this potentially gives them the edge. Take a research resource first, 
+as per usual, and see what their second move is, and if they get what they need from 
+exploration. Then choose between exploring, coins, or the other research resource based 
+on whether a) the site they found is one you will be happy enough taking next round, and b) 
+you prefer an assistant this round, or more cards. 
+ 
+In 3- or 4- player games there is generally less to worry about in the first round. Since 
+players tend to hit the camps first you will likely explore before others do, getting your pick 
+of site bonuses and first crack at assistants. If multiple players explore, the entire better for 
+you, as you will also have first pick of sites and remaining guardian’s next round. 
+ 
+Player 3 
+Starting Resources: 2 coins, 1 compass 
+Summary: Hoard Compasses! 
+ 
+First Glance:  While apparently similar to Player 2, just with an extra coin, there is a crucial 
+difference: they will not go first next round. This might suggest they should explore as well, 
+so there are at least two discovered Level I dig sites next round, and thus they will be 
+guaranteed access to one. The problem with that is that it will always be the less useful site 
+that Player 2 leaves for you, possibly a fairly useless one for round 2 research. A better 
+option is… to aim instead for a Level II site in round 2. 
+ 
+In More Depth: Does that sound ambitious? It is, but highly effective. The sacrifice is not 
+exploring this round and hoarding compasses. If you can pull it off, though, it’s worth it 
+because you can hit that Level II site again when you go first in round 3, and thus will have 
+more resources overall by that point. In the first round, this means investing in specific 
+cards: you need compasses (such as Steam Boat, or Rough Map) and ideally a cheap card 
+that gives double-travel symbols (like Gold Pan or Sturdy Boots). I hope that gain a step 
+towards your first assistant as well; a travel assistant is ideal, since they can help you move 
+both rounds, smoothing out the travel symbol challenge. `18 | P a g e 
+  
+This means prioritizing coins camp (if it is still available), compasses (unless you can buy 
+tools worth 2 or 3 next round), and whatever research resource will not require you to spend 
+a compass this round (pretty much in that order). It also means keeping an eagle eye out for 
+items that you need, and snapping them up as they come by. 
+In addition, sometimes? No items come along that will help you and you are blocked from 
+the compass camp, so there is virtually no chance of getting the 6 compasses you need. In 
+that case, pivot your plan. Explore this round, try to get an assistant, and take whatever free 
+dig site Player 2 gives you in round 2 and explore again. Do not get so stuck on the ideal 
+plan that you do not recognize it will not work until it is too late. 
+ 
+Snake Variation: Honestly, not much. Level II site rewards are actually easier to make the 
+most of in rounds 2 and 3 (i.e., on the lower half of the research track) on Snake than they 
+are on Bird, so this is an ideal tactic whenever possible. 
+ 
+Multiplayer Variants:  
+This is easier to execute in 3-player, where it is unlikely that you will be blocked from any 
+camp sites if you are not exploring, even if your second move is not to a camp that helps 
+this round. If for some reason nobody explores in the first round or buys any cards in their 
+first two turns, you will be forced to use a 2-foot location. Follow the priority of 
+coins>compass>other spending on what is available. 
+ 
+In 4-player, this gets tricky. You definitely want to buy specific cards, and you cannot control 
+when they come out, but you also do not want to be stuck taking two 2-foot locations, so 
+generally you will not want to buy a card before your first move. (If others are on a buying 
+spree, this may give you leeway, but be cautious.) Best case, everyone else will explore 
+with his or her second move, but you cannot be sure. If you do not have a camp to move 
+your second archaeologist to that will gain you resources, (2 coin cards for a coin camp is a 
+pointless move), explore instead. As above, do not hesitate to pivot if the plan is not 
+working. 
+ 
+Player 4 
+Starting Resources: 1 coin, 2 compass 
+Summary: Be Opportunistic! 
+ 
+First Glance:  This is the only start that is guaranteed a first-round explore, even with a 1-
+compass hand; this compensates for potentially getting locked out of as many as three 
+camp sites before your first turn. Consequently, your first move should nearly always be to a 
+remaining campsite, since the chances are strong, you will be blocked out of all single-foot 
+options by your second turn. You might buy a card in between this move and your explore 
+action, but almost never before moving at all (unless at least 2 other players bought cards 
+as well). 
+ 
+In More Depth: I started the article commenting that your opening choices should seem 
+simple, but rarely are. In addition, in the case of being Player 4, they are even more `19 | P a g e 
+ constrained! However, it does not mean you should not think them through -- it means you 
+have to think a little differently. Unlike other players, you will be focused less on setting an 
+objective for yourself at the outset, and more about making the most of what opportunities 
+present themselves as the round unfolds. 
+ 
+Naturally, you still need to do your initial assessments of cards and assistants -- as they are 
+when play reaches you, and bearing in mind that as several players could be ahead of you 
+in the assistant race. (Also: do this every turn, because better cards or assistants may be 
+revealed, and you want to keep your options open to seize whatever comes your way.) 
+Next, you should look over the unexplored site bonus tiles before making your first move , 
+because which one you aim for may effect which campsite you take: 
+- If you have one compass in hand, you’ll want to explore a site with a compass bonus, to 
+maximize the chance you can take an assistant if you choose to do so. 
+- If you have two compasses, look for an upgrade site bonus. If there’s one you can travel 
+to, consider taking the campsite that is apparently “useless” for research this round, 
+because the upgrade will turn it into one you can use! (Tablets>arrow on Bird Temple, 
+arrow>jewel on Snake) 
+ 
+If there was a card rush among other players, and there are extra campsites open, you will 
+need to do a little more assessment. Here is how I would approach whichever sites are left 
+open to you:  
+- If coins is free, I think I would always go there first. Buying cards first round is 
+indispensable. 
+- If compass camp is free, and you have a one-Fear hand… it may occur that you could 
+actually explore a Level II site this round. Do not. It does give you a guaranteed assistant, 
+but you will not have much control over which one, and without the coins assistant there is a 
+good chance you will be unable to buy any cards. As a result, given that you likely will not 
+get to that site again until round 4, your mid-game is going to tank. 
+- On the other hand, if the compass site is open and there is a great opening artifact, most 
+likely nobody else is going for it! Take your shot. 
+- If a “useful” research resource is available, this is the best choice after coins. Then you 
+can aim for a compass site bonus (if you do not have a spare) or else a coin bonus to buy 
+more or better cards. 
+ 
+Bird/Snake Variations:  On Bird, it is usually tablets and another camp that is open, and 
+except in the upgrade scenario mentioned above, it is probably the other one that you want, 
+whatever it is. On Snake, though, arrows will likely be free, and if you have a 2-compass, 
+hand and can visit a bonus-compass site, go arrows and use your idol slot for tablets. See 
+the section on Player 1 about the advantages of advancing your glass two steps on Snake. 
+ 
+Okay, that is it for me! Do any of these suggestions strike you as confusing, or wrong? Do 
+you have any favorite opening strategies? A particular turn order you prefer to start with? 
+Fire away! 
+ `20 | P a g e 
+ Advanced Strategy Tips 
+ 
+Just wanted to add some advanced tips here. 
+ 
+- Learn from others 
+The main way that I got better was to watch full game replays when I lost to see what other 
+players did well and what I missed. Most of what I learned after the fact was how I did not 
+move fast enough for the things I wanted. 
+ 
+- Travel quickly and wisely,  
+you should have a game plan of where you want to travel before the next round even starts. 
+That means knowing what travel icons you will likely have so you can make the journey and 
+making sure you get there first if you really need it. 
+ 
+- Gold is king 
+what really made me take a step up from 70-80 point scores into the 90s and 100s is doing 
+more deck building. To build a good deck, you typically need gold (or compasses). The 2 
+gold assistant is by far the best one imo and if it is available on round 1, try your best to be 
+the first to claim it. I never have a bad game if I get the 2 gold assistant on round 1. 
+ 
+- Don't assume you will have time or opponents will be rational 
+I have had many situations where I thought I would be able to travel to a spot because it 
+made no sense for my opponent to go there only for them to go there anyway. This 
+happens a lot more with weaker players, but you should make sure that if you need 
+something, do not take unnecessary risks. This also happens in round 5 where I think I can 
+buy an artifact a bit later only for my opponents to buy it before me even though it does not 
+work as well for them. 
+ 
+- Be careful with your item slots 
+unless you have Stone Key, I always leave at least 1 item slot free. Exploring without an 
+item slot open puts you in a vulnerable position since you can often struggle to kill the 
+guardian. I usually refrain from travel if I have used all my slots and instead buy artifacts 
+with my extra compasses. 
+ 
+- General timing 
+On Bird Temple, there are general benchmarks for where you should be at each stage. By 
+round 2 you should have both assistants. By the end of round 4, you should have gotten at 
+least 1 assistant upgraded and your glass right before the draw a card bit otherwise it will 
+take too many resources for you to make it up and get a good score. I have had games 
+where I have finished all research by round 4, which is an extremely good place to be. 
+ 
+- Go the long way not the short way 
+Part of making more resources in this game is going circuitous routes to get what you need. 
+So if for example you need an arrow to kill a guardian do not just immediately use an item `21 | P a g e 
+ slot to get it. Maybe the best way is to buy tablets instead, use that to upgrade your 
+assistant, which gives you an extra arrow. This means that you advanced up a research 
+space as well as got what you needed. 
+ 
+- Kill guardians last 
+unless you need the guardian boon like the card draw one or for travel, kill monsters last. 
+That is because killing monsters lowers your available resources and does not offer 
+anything immediately in return. You want to have as many resources as possible so you 
+have the most options. Only spend resources if it moves you up the track (which gives you 
+stuff) or you really need a particular travel spot, item or artifact. 
+ 
+- Use everything 
+if you have a hand with 2 fears, find a way to make that work for you - campsite for a jewel 
+for instance or the Guardian's Ocarina so you can use your fears to travel - if you have a 
+pickaxe or something that requires a resource, make sure you are able to take advantage of 
+it. You should aim to never keep cards between rounds. It is a big loss if you have a card 
+that you cannot use in your hand. It is like you played a round with 4 not 5 cards. 
+ 
+- Understand your deck composition 
+this is where it gets a bit advanced and you need some experience. You should aim to 
+make your deck work with your assistants intelligently. If for instance you have a pickaxe 
+and trowel, make sure your assistants give you compasses. If you have, coin assistants 
+make sure your items give you compasses. If you are taking in loads of fears, go the card 
+draw or exile assistant. I think the exile assistant is playable. Never your first pick up, but it 
+can be a decent 2nd one if are traveling often to fear sites and it gives an extra compass 
+once upgraded. 
+ 
+Trap Items  
+There are a few cards, which I consider to be traps and rarely ever pick up. 
+ 
+Precision Compass - It is too expensive, only gives 1 point at the end, and bloats your deck. 
+It is also a bad pick up early since you have fewer artifacts to choose from and a bad pick 
+up late because of its high cost and lack of replayability. 
+ 
+Machete - I also never buy this. It is one of the most poorly designed cards imo. It should be 
+4-2 or 3-1 since the exile a card ability is a soft bonus. 
+ 
+Ostritch/Sea Turtle - Not great for what they offer. The Automobile and Steam Boat are 
+better and the Pack Donkey/Horse are stronger for draw. Draw in general is not strong in 
+this game unless you deck build carefully which makes them items for advanced players 
+that can manage their deck well. 
+ 
+Trowel - Pickaxe is one of the best cards because it gives you two versatile resources. 
+Trowel is a 1-1. You can interact with a tablet and an arrowhead with upgrades and it also 
+helps kill more guardians and pay for artifacts. Jewels have few purposes other than to `22 | P a g e 
+ move up the track. 
+ 
+Revolver - One of the worst items in the game imo. The biggest problem is that it does not 
+create resources. Killing guardians should be secondary to generating raw resources. 
+Revolver does not generate any. I find I use it for travel at the end of games sometimes just 
+as proof of how useless a card it is. This should have cost a coin to kill the monster and be 
+4-2. I will only buy this as part of some intricate play with the Artifact that puts this on top of 
+your deck so you can get a cheap monster kill the turn you buy it by drawing a card. 
+ 
+Airplane - Okay hear me out... I do not think the card is bad. It is just not worth destroying 
+your early game for. I see some players use their turn 1 to throw all their gold at buying this 
+first. I do not think it is good enough to be worth doing that for. You will find that the most 
+annoying thing about it is that it only provides 2 not 3 compasses. I think this is best bought 
+when it is natural to do so either with the help of the 2 gold assistant or the item-buying tier 
+1 square. Do not wreck your turn 1 strategy just to buy this. You end up basing your whole 
+game around it and cap out at about 80 points. 
+ 
+Trap Assistants  
+ 
+Gold>Arrow assistant - This is one of the biggest traps and one I see a lot of even veteran 
+players fall in. It looks very tempting to pick it up on round 1 because it could help you kill a 
+guardian that turn but it ends up taking up all your gold and causing your deck to be very 
+small and ultimately weak. I will only pick this one up if I have the gold assistant or heavy 
+gold items like gold pan or watch. It can be bought as a second assistant if your 
+deck/assistant allows, never as a first. 
+ 
+Shopping assistant - The guy that allows you to buy an artifact or an item. It looks flexible 
+on paper, in practice; it is slow, cumbersome and often useless. Resources are key. You 
+want your assistant to give you travel symbols or icons and this does neither. 
+ 
+Underrated items  
+ 
+Whip - One of the best items in the game imo. It gives you effectively 4 compasses for just 2 
+gold and replaces itself with a new high value artifact in the process. I do not mind picking 
+this up on turn 1 while others might overlook it. If you do not have a good artifact to buy on 
+turn 2, use it for travel and it will come back around in turn 3 or 4 when there are good 
+artifacts to buy. Being able to snipe a valuable artifact the moment it shows up like Guiding 
+Skull or Star Charts can be game defining and this lets you do it quickly and sneakily too 
+sometimes. 
+ 
+Bow and Arrows/Brush - At the higher levels, the strength of these cards is known, but 
+these are two of the best cards in the game. They can create 3 compasses, which is 
+amazing return, and convert 1-1 for coins - points. I slightly deprioritize these in round 1 but 
+from round 2 onwards, they are very high priority buys. 
+ `23 | P a g e 
+ Sturdy Boots - A surprisingly versatile card good at all stages of the game. It is primarily 
+used for its two car symbols which is very good value for 1 gold. This card is close to S Tier 
+on the Snake Temple where it can travel to a tier 1 site. 
+ 
+Hot Air Balloon - This is often put as a top tier card but I would argue it is the best item in 
+the game (maybe behind Dog). I will forgo travel on the first turn going first to buy just two 
+cards - Dog and Hot Air Balloon. It just accelerates your development so quickly for such a 
+low cost. Always aim to travel to a tier 2 site with it. 
+ 
+ 

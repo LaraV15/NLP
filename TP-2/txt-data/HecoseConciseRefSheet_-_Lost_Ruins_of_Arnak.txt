@@ -1,0 +1,82 @@
+Lost Ruins of Arnak
+Start: 
+•1 artifact & 5 items in card row, separated by moon staff.
+•For2/3P, block 5/3 double boots spaces randomly. 
+•Temple tilestacks have asmany tilesas#players.
+•Research bonus tiles. Facedown at lost temple, faceup at 
+others. 
+•Assistants silver side up,3stacks of4each.
+•Players: Deck = 4 basic cards + 2 fear cards. Players 1/2/3/4 
+get 2 coin / 1 coin 1 compass / 2 coin 1 compass / 1 coin 2 
+compass.  
+Rounds : (5 rounds)
+•Players draw to 5 cards. 
+•Take turns performing 1main action +unlimited free
+actions, until everyone passes.
+•Cleanup: 
+•Return pawns. Gain fear card ifpawn returns from site 
+with guardian. 
+•May discard hand card toplay area.
+•Shuffle cards in play area to bottom of deck. 
+•Refresh assistants.
+•Exile cards next to moon staff, then refill. 
+•Start player marker passes left.
+Concepts: 
+•A card is used for either travel value OR effect, not both.
+•Travel costs: plane cansubstitute foranything. Carorship
+cansubstitute forboot. $2 = plane. 
+•Exile = remove card from player’s hand / play area. 
+•Lightning icon =freeaction.
+Main actions
+•Dig (discovered) site. Pay travel cost, place free pawn.  
+•Discover site. Pay discovery cost & travel cost, place free 
+pawn. Take idol(s) and use face -up idol. Place site and 
+resolve. Place guardian. 
+•Overcome guardian. Must have pawn present. Pay guardian 
+cost. Claim guardian. Guardian boon is once per game. •Buy card. Refill card row after buying, shifting cards towards 
+moon staff. Item goes to bottom of deck. Artifact goes to play 
+area, may resolve immediately ignoring tablet cost. 
+•Play card. Pay cost where applicable. 
+•Research. Pay to move research token 1 step. Claim 
+research tile if available. Resolve row effect. Book may 
+never be higher than magnifying glass. 
+•After finding losttemple, may buy temple tiles instead of 
+moving research token. 
+Others:
+•Idol action (free action): Use idol to cover action slot (will 
+cost points) to take idol action. 
+•Assistants: Usually one use per round (turn sideways when 
+used). When upgrading, refresh. May only see top 
+assistants and may not examine stack. 
+•Iffearcards runout,take feartileinstead. Fear tilemay be
+exiled like a card. 
+End game scoring:
+•Research token positions. 
+•Temple tiles.
+•Idols and unused idol slots. 
+•Guardians.
+•Cards. 
+•Fear card -1VP, feartile-2VP.
+•Tiebreaker first to reach temple, then highest research 
+score. Concise Reference Sheets by hecose
+How to use this reference sheet
+Assumption:   
+•This reference sheet assumes that you have read the complete rules of the game and are familiar 
+with how the game works
+This reference sheet is useful when:
+•You have not played the game for some time and do not remember all the rules details (e.g. starting 
+money, scoring methods)
+•You are teaching the game and want to give a simple and structured overview
+The concise reference sheets are submitted to their respective game entries at 
+www.boardgamegeek.com. The complete set is available below, for the convenience of those who wish 
+to download all in one go:
+Download link: 
+https://drive.google.com/file/d/1x6g8SIYAeL49ic3GkRa9lwjEyrmpaovY/view?usp=sharing
+List of games: 
+https://docs.google.com/spreadsheets/d/1vrGVxYeMns -yTcpm -
+Je2_qQGKdIKAbUXpMwPKUuv9DM/edit?usp=sharing
+Please send a message to my Boardgamegeek mailbox if you find any errors or have any comments. 
+My username is hecose . 
+My boardgame blogs: 
+http://hiewandboardgames.blogspot.com
+http://boardgametable.blogspot.com (in Chinese)

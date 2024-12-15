@@ -1,0 +1,296 @@
+Lost Ruins of Arnak: Cooperative Mode
+Release 1.0
+Richard T. Saunders
+Jul 12, 2021CONTENTS
+1 Lost Ruins of Arnak: Cooperative Mode 3
+1.1 Preface . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 3
+1.2 Introduction . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 3
+1.3 Set-up . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 3
+1.4 Game Flow . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 4
+1.5 Cards . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 5
+iiiLost Ruins of Arnak: Cooperative Mode, Release 1.0
+Contents:
+CONTENTS 1Lost Ruins of Arnak: Cooperative Mode, Release 1.0
+2 CONTENTSCHAPTER
+ONE
+LOST RUINS OF ARNAK: COOPERATIVE MODE
+1.1 Preface
+This is a set of rules I designed to make Lost Ruins of Arnak cooperative.
+There are only 18 cards total needed (and included here):
+1. 4 Player Character cards
+2. 14 Shadow Creature Motivation cards
+The win condition changes depending on the two Shadow Creature Motivation cards drawn: the players must cooper-
+atively satisfy the conditions of BOTH motivation cards to win.
+1.2 Introduction
+Some strange, shadowy creatures have been spotted in major metropolitan areas across the globe! These strange
+creatures, dubbed “The Shadow Creatures” have been dealing chaos, havoc, and damage everywhere they appear!
+What do the Shadow Creatures want? What are their motivations?
+With the world in chaos, major governments have shared all their intel on the Shadow Creatures. Synthesizing this
+collective intel, the world’s top researchers have gleaned that the Shadow Creatures have some connection to the Lost
+Ruins of Arnak. But what is that connection?
+The answer lies nears the site of the Lost Ruins of Arnak! The researchers must travel there to ﬁnd the answer! Using
+research, exploration, smarts, and a little luck, the researchers will work together to discover the Shadow Creatures
+motivations and the appropriate response!
+Can the researchers ﬁgure out the Shadow Creatures motivations before time runs out and the Earth is destroyed? Can
+YOU help them?
+To win the game, players must together discover and satisfy the Shadow Creature Motivations to save the Earth!
+1.3 Set-up
+1.3.1 Character Set-Up
+At the beginning of the game, each player (randomly or deliberately) gets a Character card. Each Character has a
+special ability he/she can use once per round. Character cards are like assistants: exhaust and refresh Character cards
+just like assistants. At the start of the game, all Character cards start refreshed (they will exhausted when used and
+refreshed at the start of each round).
+3Lost Ruins of Arnak: Cooperative Mode, Release 1.0
+1.3.2 Board Set-up
+Randomly draw, but do not look at, two Shadow Creature Motivation cards. Place one Motivation card (face down) on
+the round 4 space and one Motivation card (face down) on the round 5 space (where the Moonstaff would go to denote
+rounds 4 and 5).
+At the start of round 4, you will reveal the ﬁrst Motivation card and at the start of round 5, you will reveal the second
+Motivation card.
+These Shadow Creature Motivation cards represent the “win” conditions for the game! To win, BOTH Shadow Crea-
+ture Motivation cards must be satisﬁed to win the game!! Take a look at a few of the cards you DIDN’T use to get a
+sense of what these cards are.
+The cooperative game game (usually) has no use for Victory Points: it’s all about collectively discovering and satisfy-
+ing the Shadow Creature Motivations.
+1.4 Game Flow
+Overall, the cooperative rules don’t change the game much; the cooperative mode changes the win conditions and adds
+a few rules. Note that Victory Points no longer matter (in general).
+In the beginning, the cooperative game of The Lost Ruins of Arnak plays very much like the base game, where
+players explore, research, and gather resources fairly independently. Near the end of the game, players will need to be
+collaborating closely to win.
+1.4.1 Share Resources
+Share Resources at The Start Of A Round
+At the start of a round, players may share/trade ANY resources (gold, compasses, tablets, arrowheads, gems, Idols,
+and Guardians) except for cards and workers.
+Note that this sharing is ONLY at the start of a round (the day)! Thematically, the researchers get together at the
+start of the day to share their research, but go out separately to explore and research!! They are no longer together to
+share!!!
+Hint! Be especially cognizant of this sharing at the start of round 5: that’s likely when you’ll need it the most!
+“At the start of the day, the researchers get together and share what they’ve learned throughout the day”.
+NOTE: You must share before you look at your cards at the start of the round.
+1.4.2 Research Motivations
+If players wait until the start of the 4th or 5th round to see the Shadow Creature Motivation cards, they may be unlikely
+able to satisify the conditions on those cards. There is a mechanism to ﬂip the Motivations face-up early, but it is not
+easy. You may add Research Tokens (either a gold or compass) to Motivation cards to ﬂip them up early: you can
+“Research Motivations”!!!
+If you add 1 Research Token Per Player to Motivation Card 1 (on space 4), you may ﬂip it as soon as you placed the
+last token.
+If you add 2 Research Tokens Per Player to Motivation Card 2 (on space 5), you may ﬂip it as soon as you placed the
+last token.
+“We must discover the motivations early!”
+4 Chapter 1. Lost Ruins of Arnak: Cooperative ModeLost Ruins of Arnak: Cooperative Mode, Release 1.0
+How do Players Research Motivations?
+On your turn, you may play a research token when you do any of the following on your turn:
+1.Field Work : Anytime you “Discover a New Site”, you may discard a gold or compass (from your supply) to
+place a research token
+2.Double-Check Your Work : Whenever your Journal meets your Magnifying glass on the research track, you may
+discard a gold or compass (from your supply) to place a research token.
+3.Grad Student : You may tap your assistant (for free, no gold or compass) to place a research token: this is in place
+of your assistant’s normal ability. An upgraded assistant allows you to put 2 research tokens on a motivation
+card!
+4.Peer Review : If your Magnifying Glasses ever meets a Magnifying glass of a different color on the research
+track, you may discard a gold or compass (from your supply) to place a research token.
+5.Dissection Research : You may destroy an Idol to put 2 research tokens on a Motivation card.
+6.Hard Work : You may exile a card with Victory Points on it, and place that many Research Tokens on a Motivation
+card.
+For ease of play, you can use either compasses or gold tokens (or both) to represent Research Tokens. Note, there’s no
+limit to the number of Research Tokens one player can place on a Motivation card to ﬂip it.
+For example: In a 3-Player Game, players need to collectively place 6 Research Tokens on Motication Card 2 to ﬂip
+it.
+1.4.3 Extensions
+For an easier game, move the Motivation cards up so they are revealed earlier: on rounds 3 and 4.
+For a harder game, move the Motivation cards so they are revealed later: on rounds 5 and 6! Yes, there’s no round 6,
+which means you would have to reveal it using Research to see it before the end of the game!
+For a simpler game, ignore the Research Motivations rule and simpy reveal on rounds 3 and 4.
+For a different solo game, use the cooperative rules with 1 character: the cooperative rules scale for 1 to 4 players.
+(You can also play solo by playing two characters for a harder game).
+1.4.4 Contact
+This is the ﬁrst pass at some cooperative rules. If you have any comments or thoughts, please contact me at return-
+fromsubroutine @ gmail.com
+1.5 Cards
+Included on the next 2 pages are the cards for the cooperative mode. Print them out on card stock and cut them out.
+Note that they are just 1-sided! There should be 18 cards total: 4 character cards and 14 Motivation Cards.
+1.5. Cards 5SHADOW CREATURE MOTIVATION SHADOW CREATURE MOTIVATION SHADOW CREATURE MOTIVATION
+Rapacious :
+The Shadow Creatures want to
+mine Earth's Resources! To
+prevent this, all explored
+sites MUST have a Guardian on
+them before Game End. As a
+main action, players may
+place a previously overcome
+guardian on an explored
+Location: they must pay the
+original overcome cost to
+place them.
+"Defend the Ruins!"Warlike :
+The Shadow Creatures want
+war! To defend against them,
+the researchers need to
+befriend as many Guardians as
+possible! Each player needs
+3 used Guardians or 2 unused
+Guardian (by Game End) each
+to ward off the Shadow
+Creatures.
+"We must defend ourselves!"Scared Young :
+The Shadow Creatures are just
+younglings who are causing
+havoc because they are scared
+kids. As a group, the
+players must have 1 Gem, 1
+Arrowhead, 1 Tablet and2
+Gold Coins (per player) to
+keep the kids "entertained"
+at Game End.
+"Oh! Shiny!"
+SHADOW CREATURE MOTIVATION SHADOW CREATURE MOTIVATION SHADOW CREATURE MOTIVATION
+Fear Vampires :
+The Shadow Creatures feed on
+FEAR (cards)! All players
+must exile all Fear cards
+from all hands, decks, and
+discards, by Game End in
+order to win.
+"Do not give into the Fear!"Explorers :
+The Shadow Creatures are
+explorers like ourselves.
+They simply want to take back
+items of cultural interest
+back to their museums. All
+players must discard 3 Items
+FROM THEIR HAND on the last
+round to satisify the Shadow
+Creature interests.
+"They are anthropologists!"Reclaimers :
+The Shadow Creatures
+"technology" (the artifacts)
+have been scattered across
+the stars! They simply want
+to reclaim what is theirs!
+All players must discard 3
+Artifacts FROM THEIR HAND on
+the last round to satiate the
+Shadow Creatures.
+"Give them back!"
+SHADOW CREATURE MOTIVATION SHADOW CREATURE MOTIVATION SHADOW CREATURE MOTIVATION
+Trapped :
+The Shadow Creatures are
+stranded inour dimension and
+they just want to return
+home. To open the
+dimensional gate, each player
+must discard 3 Gems at a
+different discovered site on
+the last round to open the
+gate back.
+"The Gems open the gates!"Confused :
+The Shadow Creatures don't
+understand the humans: they
+can't conceive that their
+actions are hurting us. The
+researchers must explore the
+Lost Temple andpay forone
+of each Temple tile (11, 6,
+and2)asRosetta stones for
+communicating withthe Shadow
+Creatures. Once the
+researchers have these, they
+can communicate withthe
+Shadow Creatures to divert
+tragedy.
+"The temple tiles are key!"Xenophobic :
+The Shadow Creatures want
+nothing to do withus. They
+ask us to cover all explored
+sites so we will now deal
+withthem. All sites must be
+covered by Game End. Instead
+of Digging at a site, use
+your archeologist to cover
+the site forthe cost of 1
+compass and1 arrowhead: your
+archeologist must still be
+able pay the travel cost to
+travel there before he can
+cover it.
+"We will stay out of their
+way."Lost Ruins of Arnak: Cooperative Mode, Release 1.0
+SHADOW CREATURE MOTIVATION SHADOW CREATURE MOTIVATION SHADOW CREATURE MOTIVATION
+Librarians :
+The Shadow Creatures are
+scholars looking to collect
+information fortheir
+libraries. As a group, the
+players need to have 4
+tablets per player to give to
+the Shadow Creatures to
+satisfy their curiousity.
+"They want books!"Advanced :
+The Shadow Creatures will
+only deal withadvanced
+creatures. All basic cards
+must be exiled from all
+players hands, decks, and
+discards orthe players lose.
+Once this card isrevealed,
+an Exile action will exile N
+cards across all players
+(where N isthe number of
+players).
+"We must be advanced!"Cultural Exchange :
+The Shadow Creatures want to
+take some of your people back
+to the home world to learn
+from. Each player must
+sacrifice two upgraded (gold)
+assistants and2 Guardians
+each to attend the Shadow
+Creatures homeworld.
+"I mean, they are only grad
+students..."
+SHADOW CREATURE MOTIVATION SHADOW CREATURE MOTIVATION Character
+Skybound :
+The Shadow Creatures can only
+commuinicate when airborne.
+All players need to be able
+to generate 3 airplanes worth
+of travel on the last turn to
+fly withthe Shadow Creatures
+to gain their respect.
+"We must fly!"Holy Symbol Reclamation :
+The idols are Holy Symbols
+andmust be given back to the
+Shadow Creatures. Each
+player must have 3 Idols
+(unused) on the last round to
+give to the Shadow Creatures
+so they will go away.
+"Return!"Allison “Inspire!” Ewing :
+Allison isgood at inspiring
+her assistants. Once per
+round, Dr. Ewing may spend a
+gold orcompass to refresh an
+assistant.
+"Inspire!"
+Character Character Character
+Charlie “Skyking” Cooper :
+Charlie loves to fly and has
+his own airplane! Once per
+round, Charlie may generate a
+free airplane (for travel or
+other purposes).
+"Skyking!"Andrew “Moneybags” Smith :
+Andrew isindependently
+wealthy. Once per round,
+Andrew gets 1 free gold.
+"I love GOOLLD!"Sam “Dealmaker” Kerns :
+Sam is the king of deals!
+Once per round, Sam may
+either buy two items or
+artifacts at a cost reduction
+of 1 OR Sam may buy 1 item or
+artifact at a cost reduction
+of 2.
+"Deal!"
+1.5. Cards 7

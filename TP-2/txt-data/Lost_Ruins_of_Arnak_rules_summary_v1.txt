@@ -1,0 +1,191 @@
+Lost Ruins of Arnak  rules summary  
+ 
+Object:  Each player leads an expedition on the uncharted island of Arnak.  Points are scored for a 
+variety of activities.  After five rounds the player with the most points wins.  
+ 
+Setup:   
+1. Place the main board with the Bird Temple side face up .  The darker Snake Temple side follows 
+special rules (see the end of  this summary).  
+2. Shuffle the Artifact deck and place it on its spot in the upper left.  
+3. Place the Fear deck face up on its spot in the top middle.  
+4. Shuffle the Item  deck and place it on its spot in the upper right.  
+5. Place the moon staff token on the card row, under the “I” symbol.  
+6. Deal one artifact to the left of the moon staff and five items to t he right.  
+7. Mix the 16 idol tokens face down.  Place one face up on each site with a single figure.  Place one 
+face up and one face down on each site with two figure s. 
+8. If playing with four players, return the five oval blocking tokens (with a picture of a wa ve on one 
+side) to the game box.  
+If playing with three players, mix the tokens face down, turn over three, place the three on the 
+double -boot icon beneath their respective action spaces (wave side up), and return the other two to 
+the game box.  
+If playing w ith two players, block all of the double -boot action spaces  with the tokens . 
+9. On the top of the temple, place the temple tiles into six stacks (one for 11 -points, two for 6 -points, 
+and three for 2 -points) with as many  tiles in each stack as there are players.  If playing w ith less 
+than four players, return the rest to the game box.  
+10. Mix the 18 research bonus tiles face down.  Place a number equal to the number of players face 
+down in the spot just below the temple along the board edge.  Place one tile face up on each space 
+of the research track except for those marked for only “3+” or “4” players if playing with less than 
+four players.  Return the remaining tiles to the game box.  
+11. Place the supply board just below the main board.  
+12. Place the tablet, arrowhead, jewel, coin, and compass resources in their respective spots.  
+13. Shuffle the site tiles with a single figure  and place the stack  on its spot . 
+14. Shuffle the guardian tiles and place the stack  on its spot . 
+15. Shuffle the site tiles with two  figure s and place the stack  on its spot . 
+16. Shuffle the assistant tiles silver side up into three random stacks of four tiles each and place them 
+on their spots.  
+17. Each player chooses a color and takes the player board, research tokens, archeologist figures, and 
+four basic cards of that color plus two Fear cards from the main board.  
+18. Place your research tokens on the starting  space of the research track with your magnifying glass 
+on top of the notebook.  
+19. Shuffle your 6 -card deck and place it on its spot on your player board.  
+20. Place your two archeologists in the middle of  your player board.  
+21. Randomly determine the starting player and give them the starting player marker (alarm clock).  
+22. Give two coins to player 1, a coin and a compass to player 2, two coins and a compass to player 3, 
+and a coin and two compasses  to player 4.  
+ 
+ 
+ 
+ Game Play : The game is played over five rounds.  Each round has the following four steps:  
+1. Draw – each player draws cards from their deck until they have a hand of five cards.  
+2. Take Turns – starting with the player with the starting player marker  and proceeding clockwise, 
+each player takes one main action and an unlimited number of free actions.  
+3. Pass – on your turn, you may pass.  The remaining players continue taking turns until all 
+players have passed.  
+4. Set up the next round – see the last page of this summary . 
+You may play a card for either its travel value (in the upper left) or its effect – not both.  
+A Fear card has no effect, only a travel value.  
+When you use a card, place it face up in your play area (anywhere next to your player board) .  These 
+cards remain in your play area until step 4 above  (i.e., your deck is not reshuffled if it runs out) . 
+Free actions are noted with a lightning bolt icon.  They can be played before, after, and even during 
+your main action.  
+The x3 multiplier tokens are used if you run out of resource tokens.  Placing a resource on a multiplier 
+token indicates that you have three of that resource.  
+If you need to take a Fear card and the Fear deck is empty, take a -2 Fear token instead (the flip side of 
+the multiplier token).  If you are able to exile a card from your play area, you may exile a Fear token 
+instead.  
+ 
+Main Action  – Dig at a Site :  
+1. Move an archeologist from your player board to one of the five sites marked with a tent symbol  
+or to a site with one or two figures after it has  been discovered.  
+2. Pay the travel cost depicted on an  unoccupied space at the site.  
+3. Resolve the site’s effect.  
+A plane can pay for any one travel icon.  A car or boat can pay for the matching icon or for a boot.  A 
+boot can only pay for a boot icon.  
+You can always pay two coins to generate a plane to pay for any one travel icon.  
+If a card provides two icons, they can both be used to pay for the travel cost but if only one is used, the 
+other cannot carry ov er to your next turn.  
+ 
+Main Action  – Discover a New Site : Choose a site with one or two figure s that does not have a site 
+tile. 
+1. Pay three  or six compasses based on whether the site is one the eight below or four above the 
+line separating them, respectively.  Note that this cost is only paid when discovering a new site, 
+not when digging at a discovered site later.  
+2. Move an archeologist from your player board to the site . 
+3. Pay the travel cost depicted on the space at the site.  
+4. Take the idol and resolve its effect.   If the site has a second, face down idol, take it but keep it 
+face down.  Place the idol(s) face down on your player board below  the idol sp aces.  Each idol 
+will be worth three points at game end.  
+5. Take the top site tile matching the number of figures and  place it face up on the site, then 
+resolve its effect.   The site is now discovered.  
+6. Take the top guardian tile and place it face up on the site tile . 
+Note that you will receive a Fear card at the end of the round if your archeologist and the guardian 
+remain unless you have overcome the guardian on a subsequent turn or have moved your archeologist 
+or the guardian with the help of certain cards.  
+Using an Idol – as a free action on your turn, move an idol on your player board into the leftmost 
+empty idol space on the top of your board.  Choose one of the five depicted effect s to the left of the 
+idol slots .  Note that empty  idol slots are worth additional points at game end.   
+Main Action  – Overcome a Guardian : The presence of a guardian does not prevent an  archeologist 
+from digging at the site.  
+To overcome a guardian, you must already have an archeologist at the site:  
+1. Pay the cost at the bottom of the guardian tile . 
+2. Place the guardian tile next to your player board.  
+Once per game, as a free action, you may gain the boon depicted in the upper right corner of a guardian 
+tile next to your player board.  The n turn the tile face down.  
+ 
+Main Action  – Buy a  Card : Improve your deck by purchasing cards from the card row.  
+To Buy an Artifact : 
+1. Pay the compass cost in th e bottom left of the card.  
+2. Move the card to your play area.  
+3. You may resolve the card’s effect, ignoring the tablet cost to the left of the effect.  
+4. Slide the cards in the card row toward the moon staff.  Then replace the empty card slot with 
+the top card from the Artifact deck.  
+To Buy an Item:  
+1. Pay the coin cost in the bottom left of the card.  
+2. Place the card face down on the bottom of your deck.  
+3. Slide the cards in the card row toward the moon staff.  Then replace the empty card slot with 
+the top card from t he Item deck.  
+If a deck ever runs out of cards, that card type no longer refills the card row.  
+ 
+Main Action  – Play a Card : Play a card from your hand face up into your play area and resolve its 
+effect.  
+The card remains in your play area for the rest of the  round unless you exile it.  
+If the effect is a free action (lightning bolt icon), playing the card is not a main action.  
+If the card is an artifact, you must first pay the tablet cost to the left of the effect . 
+Exile – some effects send cards to special ex ile piles near their decks (Fear cards are exiled to the top 
+of the Fear deck).  Your starting cards (Funding and Exploration) are exiled to the game box.  
+ 
+Main Action  – Research :  
+1. Decide which research token to move up a row to a connected space.  Multiple tokens can share 
+the same space.  Your notebook may not be moved to a row above your magnifying glass (i.e., 
+first you discover something, then you write it down).  
+2. Pay the cost on  the bridge connecting the spaces.  
+3. If the space has a research bonus tile, gain its depicted bonus and remove the tile from the game 
+(first come, first served).  Also resolve the row’s effect to the right based on whether you 
+moved your magnifying glass or  your notebook.  You can gain these bonuses in the order of 
+your choosing.  
+The Lost Temple – when your magnifying glass reaches the top row, place it on the left -most empty 
+space .  Then look through the stack of face down bonus tiles, choose one, and return the rest face 
+down back to their spot.  You cannot move your notebook to the Lost Temple row.  
+Once your magnifying glass has reached the Lost Temple, you may take a Researc h action to take one 
+of the temple tiles by paying its cost.  A 2 -point tile has its cost printed below it.  A 6 -point tile 
+costs the two 2 -point costs below it.  A n 11-point tile’s cost is equal to all three 2 -point costs.  
+ 
+Main Action – Pass : You get no more turns for the rest of the round.  
+The round ends when all players have passed.   
+Assistants : When you move your notebook to a row with a silver assistant icon, choose one of the face 
+up assistant tiles and move it to an assistant square on your player b oard.  
+Note that the stacks of assistant s are supposed to be kept hidden.  Only when the top tile is taken will 
+players see what the next tile is.  The silver side of each assistant shows what its upgraded gold side 
+will be (depicted at the bottom of the ti le). 
+To use an assistant, turn it sideways to show it is exhausted.  At the end of the round, exhausted 
+assistants are refreshed (turning them back up).  
+Some assistants offer a choice of effects separated by a slash.  
+An assistant without a free action ligh tning icon requires a main action to be used.  
+When you move your notebook to a row with a gold assistant icon,  flip over one of your assistants to 
+its gold side.  The tile is also refreshed even if its silver side had been used earlier in the round.  
+ 
+Setti ng Up the Next Round :  
+1. Return your archeologists to your player board.  If you return the archeologist from a site with a 
+guardian, add one Fear card to your play area.  
+2. If this is the end of round V, skip the remaining steps and proceed to final scoring.  
+3. If you have any cards left in your hand, you may discard any to your play area . 
+4. Shuffle the cards in your play area and place them face down on the bottom of your deck.  
+5. Refresh your assistants.  
+6. Exile the artifact and item cards adjacent to the moon staff.  
+7. Move the moon staff one space to the right (showing the new round number).  
+8. Slide the cards in the card row toward the moon staff.  Then r efill the card row from the Artifact 
+deck.  
+9. Pass the starting player marker to the left.  
+10. Draw from your deck until you have a hand of five cards.  
+ 
+Final Scoring : Record the players’ points on the scoring sheet:  
+1. Each research token scores points based on its row.  
+2. Each temple tile scores its printed points.  
+3. Each of your idols scores three points.  
+4. Each of the empty idol slots on your player board scores the depicted points.  
+5. Each guardian is worth five points, regardless of whether its boon was used.  
+6. Each  item and artifact card scores points depicted in the lower right corner.  
+7. Each Fear card scores negative one  point.  
+The player with the most points wins.  If tied, the tied player who reached the Lost Temple first wins.  
+The second tiebreaker is the player with the highest research score.  Otherwise it is a shared win.  
+ 
+The Snake Temple Board : During setup, rand omly deal one assistant per player to the large space in 
+the middle of the research track.  This means that the rest of the Assistant stacks will not necessarily be 
+equal.  
+To cross to the space with these assistants, you must pay an idol tile from your pla yer board (but not 
+one from an idol slot).  The tile is removed from the game.  
+The magnifying glass effect for this space lets you secretly look through the stack of tiles in this space, 
+keep one, and return the stack to the research track.  This assistant  is placed on your player board 
+exhausted.  
+The top row on the research track – you gain a Fear card when you move your magnifying glass to this 
+row.  If there are multiple bonus tiles in this row, you choose one.  

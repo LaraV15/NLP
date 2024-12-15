@@ -1,0 +1,105 @@
+Your Turn
+On your turn, perform one main action :
+•
+ D
+ig at a site. Use its effect.
+•
+ D
+iscover a new site. Take idols, use site’s effect, add guardian.
+•
+ O
+vercome a guardian on a site with your 
+ .
+•
+ B
+uy an item 
+ . Put it on the bottom of your deck.
+•
+  B
+uy an artifact 
+ . Put it into your play area.  
+ U
+se its effect, ignoring the 
+ 
+ cost.
+•
+ P
+lay a card. (But this is a free action if it has the 
+  icon.)
+•
+  
+Research. Don’t forget to resolve the row’s 
+  or 
+  effect.
+•
+       
+Pass. You will take no more turns this round.
+ You may also perform any number of free actions .
+Setup for next round
+Reset your board:
+• 
+ R
+eturn 
+  
+ (gain 
+  for 
+ ).
+• 
+  S
+huffle all cards in your play area; 
+put them at the bottom of your deck.
+• 
+ R
+efresh your assistants.
+Advance the card row:• 
+ E
+xile the 2 cards next to the moon staff.
+• 
+ M
+ove the moon staff.
+• 
+ R
+efill the card row.
+Start the new round:• 
+ P
+ass starting player marker to the left.
+• 
+ D
+raw up to 5 cards.Hire a Pilot
+ 
+  
+ 
+  
+Travel 
+HierarchyEffects
+ 
+ Gain  the indicated resource tokens.
+  You may make one of these trades:    
+  
+ 
+    OR     
+  
+ 
+  You may draw a card . If your deck is empty, then this has no effect.
+   Y ou may exile a card from your hand  or play area . Exiled cards go to 
+the top of the main board. (They don’t return to your deck.)
+   U se up a card. It goes from your hand to your play area, but you 
+ignore its travel value and effect.
+   G ain fear.  You must take a Fear  card from the board and place it face 
+up in your play area.
+ 
+ 
+     Y ou may immediately buy an item or artifact from the 
+card row, with the indicated discount . 
+   G ain an item. Perform the Buy an Item action, skipping the step 
+where you pay its cost. It goes on the bottom of your deck.
+    G ain an artifact.  Perform the Buy an Artifact action, skipping the 
+step where you pay its cost, but include the step where you resolve 
+its effect.
+   Y ou may overcome a guardian for free on a site where you have 
+an archaeologist.
+  Take the Dig at a Site action or the Discover a New Site action.
+  Take an assistant  from the supply board.
+  Upgrade  one of your assistants and refresh it .
+  You may refresh one of your assistants.
+11732423  / NOB200902

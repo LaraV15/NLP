@@ -1,0 +1,41 @@
+Lost Ruins of Arnak – Expedition Leaders Solitaire Campaign Challenge 
+Who is the greatest expedition leader to fathom the Lost Ruins of Arnak?  Who among these talented individuals can 
+aspire to the coveted title of “Ara-Anu’s Chosen One”?  It is time to test which archaeologist reigns supreme! 
+Overview: In this solitaire campaign challenge, you will be pitting each expedition leader, individually, against The Rival, 
+down the challenge of all four Research Tracks, while escalating the difficulty until success is achieved, death claims the 
+weak, and a final score for Dominance is determined for each Leader played. 
+Starting Difficulty : The Rival’s Action Card Deck starts using all 5 Red Action Cards 
+The Adventures: 
+1. Bird Temple 
+2. Snake Temple 
+3. Monkey Temple / Snake Board 
+4. Lizard Temple / Snake Board 
+Escalating Difficulty Rules:  
+After each SUCCESSFUL Adventure, the Expedition Leader progresses to the next Adventure, and increases the Difficulty 
+Level by one – adding in a random Purple Action Card , and removing the corresponding Red Action Card. 
+After each FAILED or TIED Adventure, the Adventure must be repeated at the same Difficulty Level, however a 
+DIFFERENT Action Card Deck is constructed for The Rival. For any Adventure after the first basic Level 5 difficulty Bird 
+Temple Adventure, refresh any Purple Cards included under the current difficulty, replacing them with a new random 
+selection of Purple Card Action Cards.  This will keep each challenge fresh, avoiding Expedition Leaders repeatedly 
+coming up against Rival Deck combinations that seem uniquely tuned to giving them a problem.  
+Note: Play-testing revealed that you should NOT include BOTH Purple Action Cards which give the Rival BOTH Artifacts 
+AND Items. This deadly combination unbalanced Campaign Difficulty too wildly between Expedition Leaders. 
+Dominance / Death: Pioneered by The Search for Professor Kutil Campaign , the Dominance Score  is simply the 
+cumulative delta (or difference) between scores for successive Adventures – but there is a catch: For each FAILED 
+Adventure, a -5pt Penalty  is applied to the Expedition Leader’s overall Dominance AFTER repeating an Adventure. 
+Should the Expedition Leader ever incur a NEGATIVE Overall Dominance, they are KILLED!  
+Example 1: For the ideal example, consider a contender who defeats the Bird Temple at difficulty 5, then proceeds to 
+the Snake Temple on difficulty 6, and so on.  Each victory over The Rival would sum the differences between their four 
+scores for that Expedition Leader’s Final Dominance. 
+Example 2: Less than ideal (but more realistic perhaps) sees a contender pass the Bird Temple at difficulty 5, then fail 
+the Snake Temple on difficulty 6.  Say their Dominance after the Bird Temple was +17 – which was how much they 
+defeated The Rival by. For the Snake Temple, they lost by -12… so their Overall Dominance has now been cut to +5.  
+After swapping in a new random selection of Purple Action Cards for The Rival Deck, they attempt the Snake Temple 
+again, and win by +7!  Their new Dominance Score goes up to 12, but they must incur the -5pt Penalty  for having to 
+repeat the Adventure, so their overall Dominance diminishes to 7.  Should they fail the next Adventure by more than 2, 
+the 5pt Penalty would kill them off entirely – so they’d better make it good! 
+Supremacy: After playing however many Expedition Leaders you choose, the coveted title of “Ara-Anu’s Chosen 
+One” goes to the highest Overall Dominance! 
+Conclusion: I had great fun play-testing this scheme.. it lends much to the solitaire replay value of the game, beyond just 
+playing random Expedition Leaders against The Rival in one-off scenarios.  It’s interesting especially to see which Leader 
+plays best to your own particular style, and rotating the Rival deck kept every Adventure fresh and interesting.. Enjoy! 
