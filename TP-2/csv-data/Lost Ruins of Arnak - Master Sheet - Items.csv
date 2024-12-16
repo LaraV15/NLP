@@ -1,0 +1,45 @@
+Item,Image,"Efficiency
+(Including VP)",Efficiency,Difference,Cost,Benefit,"Recursive 
+Inflation",Notes
+Pickaxe,,700%,600%,6.00,1.00,7.00,2.75,
+Bow and Arrows,,650%,550%,11.00,2.00,13.00,2.63,
+Hat,,500%,400%,4.00,1.00,5.00,2.25,
+Trowel,,500%,400%,4.00,1.00,5.00,2.25,
+Gold Pan,,500%,400%,4.00,1.00,5.00,2.25,Used for 2 boats.
+Sturdy Boots,,500%,400%,4.00,1.00,5.00,2.25,Used for 2 cars.
+Brush,,433%,333%,10.00,3.00,13.00,2.08,
+Dog,,367%,333%,10.00,3.00,13.00,2.08,
+Fishing Rod,,350%,250%,5.00,2.00,7.00,1.88,Value of seeing an extra card not accounted for.
+Chronometer,,333%,267%,8.00,3.00,11.00,2.08,"Assumes you pass with it 3 times
+ and play it normally on the final round."
+Aeroplane,,300%,225%,9.00,4.00,13.00,1.81,
+Theodolite,,300%,267%,8.00,3.00,11.00,1.92,
+Carrier Pidgeon,,300%,250%,5.00,2.00,7.00,1.88,
+Torch,,300%,200%,4.00,2.00,6.00,1.75,
+Axe,,300%,200%,4.00,2.00,6.00,1.75,
+Parrot,,300%,200%,4.00,2.00,6.00,1.75,
+Watch,,300%,200%,2.00,1.00,3.00,1.75,
+Horse,,250%,225%,9.00,4.00,13.00,1.81,
+Precision Compass,,250%,225%,9.00,4.00,13.00,1.81,Value of seeing an extra card not accounted for.
+Tent,,250%,200%,8.00,4.00,12.00,1.75,
+Rope,,250%,200%,4.00,2.00,6.00,1.75,
+Automobile,,233%,133%,4.00,3.00,7.00,1.58,
+Steam Boat,,233%,133%,4.00,3.00,7.00,1.58,
+Machete,,225%,200%,8.00,4.00,12.00,1.75,
+Binoculars,,225%,200%,8.00,4.00,12.00,1.75,
+Rough Map,,225%,225%,2.25,1.00,3.25,3.25,
+Pack Donkey,,200%,175%,7.00,4.00,11.00,1.69,
+Ostrich,,200%,167%,5.00,3.00,8.00,1.67,
+Sea Turtle,,200%,167%,5.00,3.00,8.00,1.67,
+Lantern,,200%,133%,4.00,3.00,7.00,1.58,
+Large Backpack,,167%,133%,4.00,3.00,7.00,1.58,"Value of drawing from the bottom 
+instead of top is not included."
+Army Knife,,167%,133%,4.00,3.00,7.00,1.58,
+Revolver,,150%,125%,5.00,4.00,9.00,1.56,
+Grappling Hook,,150%,50%,1.00,2.00,3.00,1.38,
+Airdrop,,138%,138%,2.75,2.00,4.75,2.38,
+Flask,,138%,138%,2.75,2.00,4.75,2.38,
+Hot Air Balloon,,138%,138%,2.75,2.00,4.75,2.38,
+Whip,,138%,138%,2.75,2.00,4.75,2.38,
+Bear Trap,,88%,88%,1.75,2.00,3.75,1.88,
+Journal,,58%,58%,1.75,3.00,4.75,1.58,
